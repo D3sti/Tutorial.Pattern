@@ -6,7 +6,7 @@ https://www.dofactory.com/net/builder-design-pattern
 
 
 ## UML
-![BuilderPattern - UML](https://www.dofactory.com/img/diagrams/net/observer.png)
+![BuilderPattern - UML](https://www.dofactory.com/img/diagrams/net/builder.png)
 
 ## Side-Infos
 
