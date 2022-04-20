@@ -5,6 +5,8 @@ Shows the Builder Pattern in combination with vehicles.
 https://www.dofactory.com/net/builder-design-pattern
 
 
+## UML
+![BuilderPattern - UML](https://www.dofactory.com/img/diagrams/net/observer.png)
 
 ## Side-Infos
 
