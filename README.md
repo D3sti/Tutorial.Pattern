@@ -15,7 +15,7 @@ https://www.dofactory.com/net/builder-design-pattern
 - Avoiding multiple constructor parameter
 - Maintaining a given sequence when building an object
 
-Source: https://www.youtube.com/watch?v=CDZniFqC4cI
+Source: https://www.youtube.com/watch?v=CDZniFqC4cI&t=11m50s
 
 
 
